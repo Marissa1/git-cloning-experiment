@@ -21,3 +21,11 @@ p.p3 {
 ul.lists {
   color: coral;
 }
+
+.important {
+  color: limegreen;
+}
+
+.unimportant {
+  color: slategrey;
+}
